@@ -657,7 +657,7 @@ to{-webkit-transform:translateY(20px) scaleY(2.5) scaleX(.5) translateZ(0);trans
 }
 
 .contact_box{
-  background-color: #fff;
+  background-color: #dadada;
   border-radius: .5rem;
   padding: 1.5rem;
   text-align: center;
@@ -883,13 +883,6 @@ to{-webkit-transform:translateY(20px) scaleY(2.5) scaleX(.5) translateZ(0);trans
     column-gap: 6rem;
   }
 }
-
-
-
-
-
-
-
 
 
 :root{
@@ -1551,7 +1544,7 @@ to{-webkit-transform:translateY(20px) scaleY(2.5) scaleX(.5) translateZ(0);trans
 }
 
 .contact_box{
-  background-color: #fff;
+  background-color: #dadada;
   border-radius: .5rem;
   padding: 1.5rem;
   text-align: center;
@@ -1613,33 +1606,6 @@ to{-webkit-transform:translateY(20px) scaleY(2.5) scaleX(.5) translateZ(0);trans
   border: none;
 }
 
-.visitor {
-  color: black;
-  background-color: white;
-}
-
-/* Developer mode styles */
-.developer {
-  color: white;
-}
-
-.devbutton{
-  display: inline-block;
-  border-color: var(--first-color);
-  color: var(--first-color);
-  background-color: var(--first-color-dark);
-  padding: .75rem 1rem;
-  border-radius: .25rem;
-  transition: .3s;
-}
-
-.devbutton:hover{
-  background-color: var(--first-color-dark);
-}
-
-.devbutton{
-  border-color: var(--first-color-light);
-}
 
 .footer{
   background-color: var(--first-color-dark);

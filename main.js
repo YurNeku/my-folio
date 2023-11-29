@@ -108,3 +108,4 @@ gsap.from('.nav_logo, nav_toggle', {opacity: 0, duration: 2, delay:1.5, x:25, ea
 gsap.from('.nav_item', {opacity: 0, duration: 2, delay:1.8, x:25, ease:'expo.out', stagger:.2})
 gsap.from('.home_social-icon', {opacity: 0, duration: 2, delay:2.3, x:25, ease:'expo.out', stagger:.2})
 
+
